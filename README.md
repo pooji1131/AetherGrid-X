@@ -4,6 +4,8 @@ AetherGrid-X is an autonomous self-healing AI infrastructure architecture design
 
 ## Project Overview
 This project focuses on building an intelligent infrastructure system capable of preventing cascade failures using AI-driven monitoring and recovery mechanisms.
+![AetherGrid Architecture](AetherGrid%20Architecture.png)
+
 
 ## Key Features
 - AI-based fault prediction
